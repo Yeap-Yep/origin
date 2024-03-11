@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/yeap/linux/IMX6ULL/linux_nxp/include", 
+                "/home/yeap/linux/IMX6ULL/linux_nxp/arch/arm/include", 
+                "/home/yeap/linux/IMX6ULL/linux_nxp/arch/arm/include/generated/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

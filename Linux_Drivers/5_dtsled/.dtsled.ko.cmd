@@ -1,0 +1,1 @@
+cmd_/home/yeap/linux/IMX6ULL/Linux_Drivers/5_dtsled/dtsled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/yeap/linux/IMX6ULL/Linux_Drivers/5_dtsled/dtsled.ko /home/yeap/linux/IMX6ULL/Linux_Drivers/5_dtsled/dtsled.o /home/yeap/linux/IMX6ULL/Linux_Drivers/5_dtsled/dtsled.mod.o

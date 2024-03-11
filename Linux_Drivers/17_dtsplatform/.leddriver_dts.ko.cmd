@@ -1,0 +1,1 @@
+cmd_/home/yeap/linux/IMX6ULL/Linux_Drivers/17_dtsplatform/leddriver_dts.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/yeap/linux/IMX6ULL/Linux_Drivers/17_dtsplatform/leddriver_dts.ko /home/yeap/linux/IMX6ULL/Linux_Drivers/17_dtsplatform/leddriver_dts.o /home/yeap/linux/IMX6ULL/Linux_Drivers/17_dtsplatform/leddriver_dts.mod.o

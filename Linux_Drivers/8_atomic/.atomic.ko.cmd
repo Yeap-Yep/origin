@@ -1,0 +1,1 @@
+cmd_/home/yeap/linux/IMX6ULL/Linux_Drivers/8_atomic/atomic.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/yeap/linux/IMX6ULL/Linux_Drivers/8_atomic/atomic.ko /home/yeap/linux/IMX6ULL/Linux_Drivers/8_atomic/atomic.o /home/yeap/linux/IMX6ULL/Linux_Drivers/8_atomic/atomic.mod.o

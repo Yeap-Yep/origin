@@ -1,0 +1,1 @@
+cmd_/home/yeap/linux/IMX6ULL/Linux_Drivers/10_key/key.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/yeap/linux/IMX6ULL/Linux_Drivers/10_key/key.ko /home/yeap/linux/IMX6ULL/Linux_Drivers/10_key/key.o /home/yeap/linux/IMX6ULL/Linux_Drivers/10_key/key.mod.o

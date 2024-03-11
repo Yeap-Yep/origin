@@ -1,0 +1,1 @@
+cmd_/home/yeap/linux/IMX6ULL/Linux_Drivers/1_chardevbase/chardevbase.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/yeap/linux/IMX6ULL/Linux_Drivers/1_chardevbase/chardevbase.ko /home/yeap/linux/IMX6ULL/Linux_Drivers/1_chardevbase/chardevbase.o /home/yeap/linux/IMX6ULL/Linux_Drivers/1_chardevbase/chardevbase.mod.o
